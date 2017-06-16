@@ -2,4 +2,9 @@
  git is a free software
  my name is Summer,which results from the girl I love.
  continue to test
+<<<<<<< HEAD
  new master
+=======
+ new
+ 
+>>>>>>> new
